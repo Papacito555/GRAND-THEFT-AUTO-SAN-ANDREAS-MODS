@@ -1,2 +1,2 @@
 # GRAND-THEFT-AUTO-SAN-ANDREAS-MODS
-Mods de Grand Theft Auto San Andreas hechos de mi autoria programados en C#, Modelados en 3D MAX, Blender y Texturizados con Adobe Photoshop. Para Instalarlos pegue los archivos Cleo en la carpeta CLEO DE GTA SA,
+Mods de Grand Theft Auto San Andreas hechos de mi autoria programados en C#, Modelados en 3D MAX, Blender y Texturizados con Adobe Photoshop. Para Instalarlos pegue los archivos Cleo en la carpeta CLEO DE GTA SA, para leer los archivos Cleo por favor de click derecho y abrir con Block de Notas, tambien puede abrirlo en Visual Studio, Sanny Builder, Dev C++ para compilarlo es necesario contar con el juego Grand Theft Auto: San Andreas.
