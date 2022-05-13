@@ -1,0 +1,26 @@
+# IPL generated from Max file LAe.max
+inst
+19301, stütze, 0, 2376, 2275, 0, 0, 0, 0, 1, -1
+19302, LOD_strat, 0, 2376, 2275, 0, 0, 0, 0, 1, -1
+19303, sphsign, 0, 2410.71, 2278.26, 15, 1.43738e-06, 1.43738e-06, -0.996195, -0.0871557, -1
+end
+cull
+end
+path
+end
+grge
+end
+enex
+end
+pick
+end
+jump
+end
+tcyc
+end
+auzo
+end
+mult
+end
+
+
